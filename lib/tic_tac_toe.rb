@@ -52,10 +52,10 @@ class TicTacToe
   end
   
   def won?
-    if @board = WIN_COMBINATIONS
-      return true
-    else
-      return false
+    # if @board = WIN_COMBINATIONS
+    #   return WIN_COMBINATIONS
+    # else
+    #   return false
     end
   end
   
