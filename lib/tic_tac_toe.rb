@@ -62,7 +62,7 @@ class TicTacToe
   end
   
   def won?
-    WIN_COMBINATIONS.any?
+    WIN_COMBINATIONS.any? do |
   end
   
   def full?
