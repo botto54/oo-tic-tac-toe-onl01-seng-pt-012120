@@ -49,7 +49,8 @@ class TicTacToe
   
     
   def turn
-    puts "Please "
+    puts "Please enter a number (1-9):"
+    user_input = 
   end
   
   def won?
