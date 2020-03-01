@@ -43,4 +43,20 @@ class TicTacToe
     
   end
   
+  def turn_count
+    
+  end
+  
+  def current_player
+    
+  end
+  
+  def won?
+    if @board = WIN_COMBINATIONS
+      return true
+    else
+      return false
+    end
+  end
+  
 end
