@@ -39,15 +39,16 @@ class TicTacToe
     !position_taken?(index) && index.between?(0,8)
   end
   
-  def turn
-    
-  end
-  
   def turn_count
     @board.count { |box| box != " "}
   end
   
   def current_player
+    
+  end
+  
+    
+  def turn
     
   end
   
