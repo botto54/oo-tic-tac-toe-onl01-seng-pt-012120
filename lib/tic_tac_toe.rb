@@ -91,5 +91,6 @@ class TicTacToe
     turn until over?
     puts winner ? "Congratulations #{winner}!"
   end
+  end
   
 end
