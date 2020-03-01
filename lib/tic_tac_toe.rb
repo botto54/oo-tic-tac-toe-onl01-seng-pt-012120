@@ -49,7 +49,7 @@ class TicTacToe
   
     
   def turn
-    
+    puts "Please "
   end
   
   def won?
