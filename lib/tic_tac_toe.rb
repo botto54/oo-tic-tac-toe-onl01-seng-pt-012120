@@ -63,7 +63,7 @@ class TicTacToe
   
   def won?
     WIN_COMBINATIONS.any? do |combo|
-      if position_taken?(combo[0])
+      if position_taken?(combo[0]) && @board([0]) = 
   end
   
   def full?
