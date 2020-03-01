@@ -59,4 +59,22 @@ class TicTacToe
     end
   end
   
+  def full?
+    
+  end
+  
+  def draw?
+    
+  end
+  
+  def over?
+    
+  end
+  
+  def winner
+    
+  end
+  
+  
+  
 end
