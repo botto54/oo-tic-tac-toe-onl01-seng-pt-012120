@@ -57,7 +57,8 @@ class TicTacToe
       move(index, symbol)
     else
       turn
-      
+    end
+    display_board
   end
   
   def won?
